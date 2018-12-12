@@ -6,3 +6,6 @@
 
 Using KiCad
 
+
+
+Working From Windows. It's slow
